@@ -1,5 +1,5 @@
 {
-    [
+    "posts":[
     {
       "id": "124e13b9-1",
       "name": "Coded Demo",
@@ -72,5 +72,8 @@
       "price": 370,
       "img": "https://media.raritysniper.com/collections/azuki.webp"
     }  
-]
+],
+    "profile": {
+    "name": "Profile 1"
+  }
 }
