@@ -73,7 +73,48 @@
       "img": "https://media.raritysniper.com/collections/azuki.webp"
     }  
 ],
-    "profile": {
-    "name": "Profile 1"
+    "profile": [
+  {
+    "id": "124e13b9-1",
+    "name": "Jhon Rayn",
+    "ratings": 4.4,
+    "img": "https://m.media-amazon.com/images/M/MV5BNWVjYWFlMGQtYzk4ZC00NTEyLTlkMDItZDdkZDU4YWU0N2ZjXkEyXkFqcGdeQXVyODQ3Njc0NTM@._V1_.jpg",
+    "comment" : "really best product.High quality, brand new with boxes, no scratch, reasonable price, all of all it's awesome!"
+  },
+  {
+    "id": "124e13b9-2",
+    "name": "Smith Kawli",
+    "ratings": 5,
+    "img": "https://www.orangelawn.com/wp-content/uploads/2020/05/Yhonny.jpg",
+    "comment" : "sparkling man.High quality, brand new with boxes, no scratch, reasonable price, all of all it's awesome!"
+  },
+  {
+    "id": "124e13b9-3",
+    "name": "Wingdo Yang",
+    "ratings": 4.5,
+    "img": "https://img.a.transfermarkt.technology/portrait/big/177533-1524233477.jpg?lm=1",
+    "comment" : "Awesome. High quality, brand new with boxes, no scratch, reasonable price, all of all it's awesome!"
+  },
+  {
+    "id": "124e13b9-4",
+    "name": "Koly roy",
+    "ratings": 4.4,
+    "img": "https://www.engr.uky.edu/sites/default/files/styles/directory_headshot/public/Jhon%20Castro%202020-0870-0870%20WEB%20ONLY.jpg?itok=Mn5aLabe",
+    "comment" : "Keep it up.High quality, brand new with boxes, no scratch, reasonable price, all of all it's awesome!"
+  },
+  {
+    "id": "124e13b9-5",
+    "name": "Dwan Saad",
+    "ratings": 3.5,
+    "img": "https://www.orangelawn.com/wp-content/uploads/2020/05/Jhon.jpg",
+    "comment" : "its really impressive.High quality, brand new with boxes, no scratch, reasonable price, all of all it's awesome!"
+  },
+  {
+    "id": "124e13b9-6",
+    "name": "Sen David",
+    "ratings": 5,
+    "img": "https://www.orangelawn.com/wp-content/uploads/2020/05/Yhonny.jpg",
+    "comment" : "Great.High quality, brand new with boxes, no scratch, reasonable price, all of all it's awesome!"
   }
+]
 }
