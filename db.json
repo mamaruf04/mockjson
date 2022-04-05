@@ -73,7 +73,8 @@
       "img": "https://media.raritysniper.com/collections/azuki.webp"
     }  
 ],
-    "profile": {
+    "profile": [
+        {
   {
     "id": "124e13b9-1",
     "name": "Jhon Rayn",
@@ -116,5 +117,6 @@
     "img": "https://www.orangelawn.com/wp-content/uploads/2020/05/Yhonny.jpg",
     "comment" : "Great.High quality, brand new with boxes, no scratch, reasonable price, all of all it's awesome!"
   }
-}
+        }
+]
 }
